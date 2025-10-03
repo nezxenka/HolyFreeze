@@ -2,6 +2,7 @@ name: HolyFreeze
 version: 1.0
 main: ru.nezxenka.holyfreeze.HolyFreeze
 api-version: 1.16
+author: nezxenka
 depend:
   - PlaceholderAPI
 softdepend:
